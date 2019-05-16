@@ -1,34 +1,34 @@
-curl https://glp-api.pearson.com/aum/health
-curl https://glp-api.pearson.com/autobahnpro/health
-curl https://glp-api.pearson.com/cic/health
-curl https://glp-api.pearson.com/cma/health
-curl https://glp-api.pearson.com/cms/health
-curl https://glp-api.pearson.com/cns/health
-curl https://glp-api.pearson.com/gbg/health
-curl https://glp-api.pearson.com/iam/health
-curl https://glp-api.pearson.com/imc/health
-curl https://glp-api.pearson.com/lad/health
-curl https://glp-api.pearson.com/lap/health
-curl https://glp-api.pearson.com/lapp/health
-curl https://glp-api.pearson.com/lec/health
-curl https://glp-api.pearson.com/lee/health
-curl https://glp-api.pearson.com/lms/health
-curl https://glp-api.pearson.com/lpb/health
-curl https://glp-api.pearson.com/pdz/health
-curl https://glp-api.pearson.com/pgp/health
-curl https://glp-api.pearson.com/pla/health
-curl https://glp-api.pearson.com/rbassignment/health
-curl https://glp-api.pearson.com/rbaum/health
-curl https://glp-api.pearson.com/rbgradebook/health
-curl https://glp-api.pearson.com/rblms/health
-curl https://glp-api.pearson.com/registrar/health
-curl https://glp-api.pearson.com/roster/health
-curl https://glp-api.pearson.com/gms/health
-curl https://glp-api.pearson.com/rbassessment/health
-curl https://glp-api.pearson.com/assessment/health
-curl https://glp-api.pearson.com/lae/health
-curl https://glp-api.pearson.com/eviews/health
-curl https://glp-api.pearson.com/lcd/health
-curl https://glp-api.pearson.com/rblearner/health
-curl https://glp-api.pearson.com/cprs/health
-curl https://glp-api.pearson.com/scheduler/health
+curl https://glp-api.pearson.com/aum/health > result/aum.txt
+curl https://glp-api.pearson.com/autobahnpro/health > result/autobahnpro.txt
+curl https://glp-api.pearson.com/cic/health > result/cic.txt
+curl https://glp-api.pearson.com/cma/health > result/cma.txt
+curl https://glp-api.pearson.com/cms/health > result/cms.txt
+curl https://glp-api.pearson.com/cns/health > result/cns.txt
+curl https://glp-api.pearson.com/gbg/health > result/gbg.txt
+curl https://glp-api.pearson.com/iam/health > result/iam.txt
+curl https://glp-api.pearson.com/imc/health > result/imc.txt
+curl https://glp-api.pearson.com/lad/health > result/lad.txt
+curl https://glp-api.pearson.com/lap/health > result/lap.txt
+curl https://glp-api.pearson.com/lapp/health > result/lapp.txt
+curl https://glp-api.pearson.com/lec/health > result/lec.txt
+curl https://glp-api.pearson.com/lee/health > result/lee.txt
+curl https://glp-api.pearson.com/lms/health > result/lms.txt
+curl https://glp-api.pearson.com/lpb/health > result/lpb.txt
+curl https://glp-api.pearson.com/pdz/health > result/pdz.txt
+curl https://glp-api.pearson.com/pgp/health > result/pgp.txt
+curl https://glp-api.pearson.com/pla/health > result/pla.txt
+curl https://glp-api.pearson.com/rbassignment/health > result/rbassignment.txt
+curl https://glp-api.pearson.com/rbaum/health > result/rbaum.txt
+curl https://glp-api.pearson.com/rbgradebook/health > result/rbgradebook.txt
+curl https://glp-api.pearson.com/rblms/health > result/rblms.txt
+curl https://glp-api.pearson.com/registrar/health > result/registrar.txt
+curl https://glp-api.pearson.com/roster/health > result/roster.txt
+curl https://glp-api.pearson.com/gms/health > result/gms.txt
+curl https://glp-api.pearson.com/rbassessment/health > result/rbassessment.txt
+curl https://glp-api.pearson.com/assessment/health > result/assessment.txt
+curl https://glp-api.pearson.com/lae/health > result/lae.txt
+curl https://glp-api.pearson.com/eviews/health > result/eviews.txt
+curl https://glp-api.pearson.com/lcd/health > result/lcd.txt
+curl https://glp-api.pearson.com/rblearner/health > result/rblearner.txt
+curl https://glp-api.pearson.com/cprs/health > result/cprs.txt
+curl https://glp-api.pearson.com/scheduler/health > result/scheduler.txt
